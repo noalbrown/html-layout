@@ -1,0 +1,50 @@
+body {
+  height:100vh;
+  width:100%;
+  margin:0;
+  padding:0;
+  border:none;
+}
+
+.header {
+  background-color: lightgray;
+  height:14vh;
+  width:100%
+}
+
+.navbar {
+  background-color: rgb(91, 91, 221);
+  float: left;
+  height:60%;
+  width:50px;
+  margin:15px 20px;
+}
+
+.text {
+  display:flex;
+  justify-content: center;
+  height:30%;
+  width:100%;
+  text-align: center;
+}
+
+.box1 {
+  background-color: rgb(91, 91, 221);
+  height:14vh;
+  width:100% 
+}
+.box2 {
+  background-color: rgb(47, 223, 199);
+  height:14vh;
+  width:100% 
+}
+.box3 {
+  background-color: rgb(71, 155, 75);
+  height:14vh;
+  width:100% 
+}
+.box4 {
+  background-color: rgb(220, 223, 44);
+  height:14vh;
+  width:100% 
+}
